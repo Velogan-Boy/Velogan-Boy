@@ -11,7 +11,8 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Velogan-Boy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Velogan's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Velogan-Boy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Velogan's Github Stats"> -->
+<a href="https://app.daily.dev/velogan_boy"><img src="https://api.daily.dev/devcards/a1ddaf26c6ce44daa0c1a465560dc3b1.png?r=mbq" width="250" alt="Velmurugan Jeyakumar's Dev Card"/></a>
 
 
 <h3> Things i code with ! </h3>
