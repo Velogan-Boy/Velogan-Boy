@@ -16,7 +16,8 @@
 
 
 <h3> Things i code with ! </h3>
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,gcp,azure&perline=3)](https://skillicons.dev)
+ 
+ [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php,aws,gcp,vercel,docker,azure,html,css,bootstrap,linux,js,c,cpp,java&perline=10)](https://skillicons.dev)
 
 
 
