@@ -39,7 +39,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black" />
   <img alt="ES lint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=black"/>
   <img alt="Mdn Docs" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
-  
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,gcp,azure&perline=3)](https://skillicons.dev)
 </p>
 
 
