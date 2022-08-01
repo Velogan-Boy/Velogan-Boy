@@ -6,7 +6,7 @@
 
 <p>Welcome to my page!</br></br> Hello! <b>I'm Velmurugan</b> an aspiring Fullstack Web developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's Engineering degree 🎓 in Computer Science at College of Engineering, Guindy.
 
-I have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.Welcome to my page! </br>, aspiring Fullstack Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Chennai, India</b>
+I have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.
 
 </p>
 
