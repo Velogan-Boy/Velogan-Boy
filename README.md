@@ -10,7 +10,7 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 </p>
 
-<b> My Personal Portfolio Website is now live ! <a href="https://velan.me">Click here to view. </a> </b>
+<b> My Personal Portfolio Website is now live ! <a href="https://velan-projects.tech/">Click here to view. </a> </b>
 
 <br>
 
