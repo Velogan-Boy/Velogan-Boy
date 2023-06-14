@@ -67,9 +67,6 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 <br>
 
-<h2>✍️ Random Dev Quote </h2>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=midnight-purple&animation=default&layout=default&font=default)
 
 <br>
 
