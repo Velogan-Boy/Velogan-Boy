@@ -29,7 +29,7 @@ These are some of the major languages, technologies, tools and platforms I have 
  
  <h3>Framework & Technologies </h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,sass,tailwind,styledcomponents,materialui,regex,aws,gcp,azure,vercel,netlify,heroku,webpack,nginx,docker,kubernetes&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,sass,tailwind,styledcomponents,materialui,regex,aws,gcp,azure,vercel,netlify,heroku,webpack,nginx&perline=10)](https://skillicons.dev)
   
   <h3> Tools & Platform </h3>
   
