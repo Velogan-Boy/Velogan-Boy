@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Velmurugan%20Jeyakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Building%20scalable%20backends%2C%20cloud%20infra%2C%20and%20GenAI%20systems&descAlignY=62&descSize=16" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Velmurugan%20Jeyakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Building%20scalable%20backends%2C%20cloud%20infra%2C%20and%20GenAI%20systems&descAlignY=62&descSize=16" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -113,10 +115,10 @@ const velan = {
 
 <div align="center">
   <a href="https://github.com/Velogan-Boy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Velogan-Boy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Velogan-Boy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/Velogan-Boy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velogan-Boy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Velogan-Boy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -141,7 +143,7 @@ const velan = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Velogan-Boy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Velogan-Boy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -250,4 +252,6 @@ const velan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
