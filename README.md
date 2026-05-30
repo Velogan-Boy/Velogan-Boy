@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Velmurugan%20Jeyakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Building%20scalable%20backends%2C%20cloud%20infra%2C%20and%20GenAI%20systems&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Velmurugan%20Jeyakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20II%20%7C%20Building%20scalable%20backends%2C%20cloud%20infra%2C%20and%20GenAI%20systems&descAlignY=62&descSize=16" />
 </div>
 
 <div align="center">
@@ -143,7 +143,7 @@ const velan = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Velogan-Boy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img width="100%" src="https://github-trophies.vercel.app/?username=Velogan-Boy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -253,5 +253,5 @@ const velan = {
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling"/>
 </div>
